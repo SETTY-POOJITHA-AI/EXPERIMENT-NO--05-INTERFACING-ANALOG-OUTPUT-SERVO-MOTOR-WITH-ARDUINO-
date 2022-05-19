@@ -38,10 +38,10 @@ An external controller (such as the Arduino) tells the servo where to go with a 
 
 ### Figure-03 SERVO MOTOR OVERVIEW 
 
- 
 
 
- 
+
+
 
 
 
@@ -67,13 +67,11 @@ CIRCUIT DIAGRAM
 
 
 ### PROGRAM :
- 
 
+ ![code](code.png.jpg)
 
-
-
-
-
+ OUTPUT  :
+ ![output](servomotor.png.jpg)
 
 
 
